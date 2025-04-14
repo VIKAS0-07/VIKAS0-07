@@ -28,10 +28,10 @@
 `React` • `Redux` • `JavaScript` • `HTML5` • `CSS3` • `Tailwind` • `Bootstrap`
 
 #### 🧰 Backend
-`Node.js` • `Express` • `MongoDB` • `MySQL` • `REST APIs`
+`Node.js` • `Django` • `MongoDB` • `MySQL` • `REST APIs` 
 
 #### 🛢️ Other Tools
-`Git` • `VS Code` • `Postman` • `Excel` • `Jupyter` • `Docker` (learning)
+`Git` • `VS Code` • `Postman` • `Excel` • `Jupyter` 
 
 ---
 
@@ -63,15 +63,9 @@
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="vikasviks9@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/vikas-k-861b99280/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-%23FF6F61?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </p>
 
 ---
-
-### 🧠 Fun Fact
-> I switch from coding backend logic to designing UI and then running ML experiments—all before coffee gets cold ☕
-
----
-
