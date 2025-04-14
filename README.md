@@ -1,16 +1,77 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Vikas! 👋</h1>
+<p align="center">
+  <em>Software Engineer – Data | Master's in Data Science | Frontend Dev in Progress 🚀</em>
+</p>
 
-<!--
-**VIKAS0-07/VIKAS0-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7931E&center=true&vCenter=true&width=435&lines=Code.+Analyze.+Visualize.+Repeat.;Data+is+my+superpower+%F0%9F%AA%84;Frontend+by+day%2C+Data+Science+by+heart." alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 About Me
+
+- 🎓 Recently completed my **Master's in Data Science**  
+- 👨‍💻 Working as a **Software Engineer – Data**  
+- 🧠 Strong in **Python**, **Pandas**, **NumPy**, **Power BI**, **SQL**, and **ML modeling**
+- 🌐 Building slick UIs using **React**, **Redux**, **Node.js**, and **Tailwind CSS**
+- ⚙️ Currently diving deeper into **Fullstack Dev + Data Engineering**
+
+---
+
+### 🛠️ Tech Toolbox
+
+#### 🧪 Data Science
+`Python` • `Pandas` • `NumPy` • `Scikit-learn` • `Power BI` • `TensorFlow` • `Matplotlib`
+
+#### 🌐 Frontend
+`React` • `Redux` • `JavaScript` • `HTML5` • `CSS3` • `Tailwind` • `Bootstrap`
+
+#### 🧰 Backend
+`Node.js` • `Express` • `MongoDB` • `MySQL` • `REST APIs`
+
+#### 🛢️ Other Tools
+`Git` • `VS Code` • `Postman` • `Excel` • `Jupyter` • `Docker` (learning)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VIKAS0-07&show_icons=true&theme=radical" alt="Vikas' GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VIKAS0-07&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 💡 Current Focus
+
+- 🎯 Improving UI/UX in real-world applications
+- 🔁 Bridging the gap between **data insights** and **user experience**
+- 📚 Exploring **LLMs**, **Next.js**, and **MLOps**
+
+---
+
+### 🌱 Learning Goals 2025
+
+- Build a **full-stack AI-powered project**
+- Master **cloud deployment** for ML models
+- Contribute to **open source** projects
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-%23FF6F61?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+</p>
+
+---
+
+### 🧠 Fun Fact
+> I switch from coding backend logic to designing UI and then running ML experiments—all before coffee gets cold ☕
+
+---
+
